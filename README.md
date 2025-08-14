@@ -42,7 +42,7 @@ Gateway (WebSocket/HTTP) ──► Kafka ──► Pre-Processor ──► Kafka
 
 ```bash
 git clone https://github.com/yourusername/eurekaai-pipeline.git
-cd eurekaai-pipeline
+cd EurekaAI
 ```
 
 ### Build and Start Services
