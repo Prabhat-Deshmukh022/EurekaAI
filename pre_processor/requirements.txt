@@ -1,0 +1,6 @@
+aiokafka==0.10.0
+better_profanity==0.7.0
+langdetect==1.0.9
+asyncio
+# aioredis
+redis

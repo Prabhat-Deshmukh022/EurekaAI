@@ -1,0 +1,8 @@
+aiokafka==0.10.0
+sentence-transformers
+langchain-qdrant
+langchain-huggingface
+langchain
+langchain-community
+qdrant-client
+fastembed
