@@ -41,7 +41,7 @@ Gateway (WebSocket/HTTP) ──► Kafka ──► Pre-Processor ──► Kafka
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/eurekaai-pipeline.git
+git clone https://github.com/Prabhat-Deshmukh022/EurekaAI.git
 cd EurekaAI
 ```
 
